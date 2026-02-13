@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+.env/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Data and generated artifacts
+dataset/
+attendance_logs/
+models/*.pkl
+models/split_data.pkl
+models/label_encoder.pkl
+
+# Logs
+*.log
