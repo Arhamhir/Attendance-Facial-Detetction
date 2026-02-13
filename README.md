@@ -98,8 +98,4 @@ The log file is written to:
 - If no faces are found, training exits early with a warning.
 - This project focuses on learning and experimentation rather than production scale.
 
-## Learning Extensions (Optional)
-- Add a real-time webcam inference loop.
-- Compare classical features with embeddings from a deep model.
-- Export metrics to a dashboard or notebook.
-- Add unit tests for preprocessing and logging.
+
